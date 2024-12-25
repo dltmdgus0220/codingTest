@@ -19,6 +19,6 @@ for i in a:
         result += i
     else:
         result *= i
-    # print(result, i)
+
 print(f"가장 큰 수는 {result}입니다.")
     

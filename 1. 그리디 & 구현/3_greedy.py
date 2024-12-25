@@ -27,6 +27,5 @@ for i in data:
     if (count >= i): # 현재 그룹에 포함된 인원이 i 이상이라면 공포도가 i인 모험가 추가하고 그룹결성
         result += 1
         count = 0 # 초기화
-
 print(count)
 
