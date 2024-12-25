@@ -2,3 +2,4 @@
 
 ### 동빈나님 유튜브 커리큘럼을 따라 공부했습니다
 ### https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=1
+### 위 커리큘럼 github link : https://github.com/ndb796/python-for-coding-test
